@@ -1,0 +1,15 @@
+{
+  "name": "cursoecmasscript",
+  "version": "1.0.0",
+  "description": "todo el codigo de este proyecto corresponde a clases de js en platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "ecmascript"
+  ],
+  "author": "Jonatan Lisama <jtlisama21@gmail.com>",
+  "license": "MIT"
+}
