@@ -1,3 +1,4 @@
+//Manejando error 
 try {
     hello();
 }catch(error){
