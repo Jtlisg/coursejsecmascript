@@ -1,5 +1,3 @@
-const hello = () => {
-    console.log('hello');
-};
-
-export default hello ;
+export function hello() {
+    console.log("Hola Mundo")
+}
